@@ -21,7 +21,7 @@
 
 ## See our Demo and what to expect:
 
-Click this [LINK](https://kstensing.github.io/fantastic-four/) for the landing page.
+Click this [LINK](https://git6548.github.io/Forecast-Films/) for the landing page.
 
 The application should resemble the image below:
 
